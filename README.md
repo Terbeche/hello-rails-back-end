@@ -11,6 +11,9 @@
 - ![](https://img.shields.io/badge/Ruby-red)
 - ![](https://img.shields.io/badge/Ruby*on*Rails-red)
 - ![](https://img.shields.io/badge/PostgreSql-blue)
+- ![](https://img.shields.io/badge/React-blue)
+- ![](https://img.shields.io/badge/Redux-violet)
+- ![](https://img.shields.io/badge/Babel-yellow)
 
 
 ### Install & Setup
